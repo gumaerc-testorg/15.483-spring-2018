@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 36cef9a4-d20e-0eb9-074b-f156d59b4dc2
 title: Assignment 7
 uid: 2791812d-18f6-5dad-8987-b1e38825e1ee
@@ -22,10 +26,10 @@ Complete the following tasks:
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 Assets (Loans)
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Liabilities and Equity
 {{< thclose >}}
 
