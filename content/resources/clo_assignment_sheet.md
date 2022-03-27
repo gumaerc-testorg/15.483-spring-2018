@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignment 7
 parent_type: CourseSection
+parent_uid: 2791812d-18f6-5dad-8987-b1e38825e1ee
 resourcetype: Other
 title: CLO_Assignment_Sheet.xlsx
 uid: e77e8dbd-532c-c080-7501-4de726be5203
