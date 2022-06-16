@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists meeting times, prerequisites, overview
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,7 +19,7 @@ This course meets during the first half of the term.
 Prerequisites
 -------------
 
-_[15.401 Managerial Finance](/courses/15-401-finance-theory-i-fall-2008/)_, _[15.414 Financial Management](/courses/15-414-financial-management-summer-2003/)_, or _15.415 Finance Theory_.
+_[15.401 Managerial Finance](/courses/15-401-finance-theory-i-fall-2008)_, _[15.414 Financial Management](/courses/15-414-financial-management-summer-2003)_, or _15.415 Finance Theory_.
 
 Course Overview
 ---------------
@@ -40,7 +41,7 @@ We will make use of case studies, readings from financial institutions, think ta
 Requirements and Grading
 ------------------------
 
-Course requirements include regular attendance and participation in class which requires having read the assigned articles prior to coming to class and discussing them. The assignments include group-based and individual written projects and case analyses. Cases are listed in the [Readings section]({{< baseurl >}}/pages/readings).
+Course requirements include regular attendance and participation in class which requires having read the assigned articles prior to coming to class and discussing them. The assignments include group-based and individual written projects and case analyses. Cases are listed in the {{% resource_link 8d88c42b-202c-a7b3-a74b-b2122fd63f82 "Readings section" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists topics and guest speakers by session and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
