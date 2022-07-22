@@ -5,6 +5,7 @@ file: /courses/15-483-consumer-finance-markets-product-design-and-fintech-spring
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignment 7
 parent_type: CourseSection
