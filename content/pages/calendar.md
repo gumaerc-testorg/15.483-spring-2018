@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section lists topics and guest speakers by session and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 122a3798-c6a0-d975-65e4-8cba4f190561
 ---

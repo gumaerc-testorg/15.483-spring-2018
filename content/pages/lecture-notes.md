@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains the lecture slides for the course. '
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: bbcaa4eb-c3ac-1be6-2890-752ec8eed7c9
 ---
@@ -43,7 +47,7 @@ Introduction and overview of consumer financial markets
 {{< tdopen >}}
 
 
-[Lecture 1: Introduction (PDF - 1.2MB)]({{< baseurl >}}/resources/mit15_483s18_l01)
+{{% resource_link 941529c0-5742-5830-6cf5-39dba314ce24 "Lecture 1: Introduction (PDF - 1.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +75,7 @@ How people _should_ behave: economic models of household financial behavior
 {{< tdopen >}}
 
 
-[Lecture 2: Rational model (PDF - 2.1MB)]({{< baseurl >}}/resources/mit15_483s18_l02)
+{{% resource_link e177a35d-3a3a-a794-0c2a-7200b90ea624 "Lecture 2: Rational model (PDF - 2.1MB)" %}}
 
 
 {{< tdclose >}}
@@ -100,7 +104,7 @@ How people _do_ behave: behavioral biases, financial decisions, and markets
 {{< tdopen >}}
 
 
-[Lecture 3: Behavioral models (PDF)]({{< baseurl >}}/resources/mit15_483s18_l03)
+{{% resource_link 62901b10-7de9-ad0b-c8d4-1e7daf9f4930 "Lecture 3: Behavioral models (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -128,7 +132,7 @@ Guest lecture: Katy Davis (Managing Director, [ideas42](http://www.ideas42.org/)
 
 No notes
 
-Related white paper: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Financial Health Check: Scalable Solutions for Financial Resilience (PDF - 4MB)](http://www.ideas42.org/wp-content/uploads/2018/03/Financial-Health-Check.pdf)
+Related white paper: [The Financial Health Check: Scalable Solutions for Financial Resilience (PDF - 4MB)](http://www.ideas42.org/wp-content/uploads/2018/03/Financial-Health-Check.pdf)
 
 
 {{< tdclose >}}
@@ -156,7 +160,7 @@ Selling personal financial advice
 {{< tdopen >}}
 
 
-[Lecture 5: HelloWallet (PDF)]({{< baseurl >}}/resources/mit15_483s18_l05)
+{{% resource_link b359c19f-0308-cdc4-852a-101e83bdcdee "Lecture 5: HelloWallet (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -184,7 +188,7 @@ Risk-based pricing in consumer credit: credit cards and regulation
 {{< tdopen >}}
 
 
-[Lecture 6: Credit card markets (PDF - 1.7MB)]({{< baseurl >}}/resources/mit15_483s18_l06) 
+{{% resource_link ef76c744-382e-f65a-fe31-f90bacc9d7d6 "Lecture 6: Credit card markets (PDF - 1.7MB)" %}} 
 
 
 {{< tdclose >}}
@@ -212,7 +216,7 @@ Consumer insurance markets
 {{< tdopen >}}
 
 
-[Lecture 7: BASIX Insurance (PDF)]({{< baseurl >}}/resources/mit15_483s18_l07) 
+{{% resource_link c7bcdb06-8ae0-7d56-afb3-f02a59c50355 "Lecture 7: BASIX Insurance (PDF)" %}} 
 
 
 {{< tdclose >}}
@@ -241,7 +245,7 @@ Peer to peer lending
 {{< tdopen >}}
 
 
-[Lecture 8: Lending Club (PDF)]({{< baseurl >}}/resources/mit15_483s18_l08) 
+{{% resource_link 06c5ceb3-1269-5372-d9b5-718b8c49d092 "Lecture 8: Lending Club (PDF)" %}} 
 
 
 {{< tdclose >}}
@@ -322,7 +326,7 @@ Fintech: Bitcoin and payment technologies overview and discussion
 {{< tdopen >}}
 
 
-[Lecture 11: Bitcoin and payments (PDF - 2.1MB)]({{< baseurl >}}/resources/mit15_483s18_l11)
+{{% resource_link e1901be6-17b2-39f7-bfc0-ce776009edd9 "Lecture 11: Bitcoin and payments (PDF - 2.1MB)" %}}
 
 
 {{< tdclose >}}

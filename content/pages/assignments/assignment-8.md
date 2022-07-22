@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section outlines the details of the assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 36cef9a4-d20e-0eb9-074b-f156d59b4dc2
 title: Assignment 8
 uid: 0c52d360-99cb-1f3f-18e3-8d3b33b44e92
