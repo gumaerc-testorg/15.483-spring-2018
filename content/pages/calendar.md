@@ -109,7 +109,7 @@ Financial coaching and behavioral economics
 
 Financial Health Check case assignment due
 
-Guest lecture: Katy Davis (Managing Director, {{% resource_link "7e262546-2b99-4121-aa13-03726b370e32" "ideas42" %}})
+Guest lecture: Katy Davis (Managing Director, [ideas42](http://www.ideas42.org/))
 
 
 {{< tdclose >}}
@@ -231,7 +231,7 @@ Securities backed by consumer debts
 
 CLO modelling exercise due
 
-Guest lecture: Joseph Naggar (Partner, {{% resource_link "f505c7c1-5c4c-482a-ac41-071e69b87133" "GoldenTree Asset Management" %}})
+Guest lecture: Joseph Naggar (Partner, [GoldenTree Asset Management](https://www.goldentree.com/))
 
 
 {{< tdclose >}}
@@ -255,7 +255,7 @@ Fintech lending in China
 {{< tdopen >}}
 
 
-Guest lecture: Chen Long (Chief Strategy Officer, {{% resource_link "ba64ddd8-c81c-45bb-ac7d-d725c9df1509" "Ant Financial" %}} (formerly Alipay))
+Guest lecture: Chen Long (Chief Strategy Officer, [Ant Financial](https://www.antfin.com/) (formerly Alipay))
 
 
 {{< tdclose >}}

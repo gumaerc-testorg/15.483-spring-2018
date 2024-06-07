@@ -123,7 +123,7 @@ How people _do_ behave: behavioral biases, financial decisions, and markets
 
 Financial coaching and behavioral economics
 
-Guest lecture: Katy Davis (Managing Director, {{% resource_link "7e262546-2b99-4121-aa13-03726b370e32" "ideas42" %}})
+Guest lecture: Katy Davis (Managing Director, [ideas42](http://www.ideas42.org/))
 
 
 {{< tdclose >}}
@@ -132,7 +132,7 @@ Guest lecture: Katy Davis (Managing Director, {{% resource_link "7e262546-2b99-4
 
 No notes
 
-Related white paper: {{% resource_link "632f434f-6a73-4647-a1b4-9989f4936a1d" "The Financial Health Check: Scalable Solutions for Financial Resilience (PDF - 4MB)" %}}
+Related white paper: [The Financial Health Check: Scalable Solutions for Financial Resilience (PDF - 4MB)](http://www.ideas42.org/wp-content/uploads/2018/03/Financial-Health-Check.pdf)
 
 
 {{< tdclose >}}
@@ -264,7 +264,7 @@ Peer to peer lending
 
 Securities backed by consumer debts
 
-Guest lecture: Joseph Naggar (Partner, {{% resource_link "f505c7c1-5c4c-482a-ac41-071e69b87133" "GoldenTree Asset Management" %}})
+Guest lecture: Joseph Naggar (Partner, [GoldenTree Asset Management](https://www.goldentree.com/))
 
 *   Tour of securitized products and ABS (credit cards, autos, student loans, personal loans, esoteric), CMBS, RMBS, and CLOs
 *   The size of the market, the participants, and importance
@@ -295,7 +295,7 @@ No notes
 
 Fintech lending in China
 
-Guest lecture: Chen Long (Chief Strategy Officer, {{% resource_link "ba64ddd8-c81c-45bb-ac7d-d725c9df1509" "Ant Financial" %}} (formerly Alipay))
+Guest lecture: Chen Long (Chief Strategy Officer, [Ant Financial](https://www.antfin.com/) (formerly Alipay))
 
 
 {{< tdclose >}}
